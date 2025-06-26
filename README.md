@@ -1,6 +1,6 @@
-# 📊 Skin Care Products Sales & Profitability Analysis (2022)
+## 📊 Skin Care Products Sales & Profitability Analysis (2022)
 
-## 📑 Overview  
+### 📑 Overview  
 This project explores the **sales and profitability performance of skincare products** across different product categories, cities, customer segments, and regions in the year 2022.
 
 Using a combination of **SQL queries** and a **Power BI dashboard**, I aimed to uncover valuable insights about the business’s most profitable areas, sales patterns, and customer behaviors.
@@ -9,7 +9,7 @@ I created a date table in PostgreSQL and Power BI which was used for the time ba
 
 ---
 
-## 🎯 Project Objectives  
+### 🎯 Project Objectives  
 
 The primary questions this project sought to answer were:
 
@@ -20,7 +20,7 @@ The primary questions this project sought to answer were:
 
 ---
 
-## 📊 Key Findings  
+### 📊 Key Findings  
 
 - A total of **75,000 products** were sold across **7,000 orders** during the year **2022**.  
 - The **Corporate segment** generated the highest profit, contributing approximately **52% of total profit**.  
@@ -36,14 +36,14 @@ The primary questions this project sought to answer were:
 
 ---
 
-## Limitations  
+### Limitations  
 
 - The dataset covers only the year **2022**, limiting time-based trend analysis to just **days of the week, months, and quarters**.
 - Absence of **cost-related variables per product unit** limited deeper margin analysis beyond available profit data.
 
 ---
 
-## 🛠️ Tools & Skills Used  
+### 🛠️ Tools & Skills Used  
 
 - **SQL (PostgreSQL)**: Data exploration, cleaning, and querying  
 - **Power BI**: Interactive data visualization and dashboard design  

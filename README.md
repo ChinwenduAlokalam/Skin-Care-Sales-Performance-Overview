@@ -30,13 +30,13 @@ The primary questions this project sought to answer were:
 - 🏙️ While **Los Angeles** led in **total revenue**, **New York City** contributed the most to total **profit**.  
 - 📉 On average, **Thursdays** recorded the **lowest sales volume** compared to other weekdays.  
 - 🌎 Though **Central America** contributed most to total **revenue**, **Western Europe** recorded the highest **profit contribution**.  
-- 🧴 **Face care products** sold the highest number of units over time, but it was **Body care products** that generated the most **profit and revenue** over the entire year.  
+-  **Face care products** sold the highest number of units over time, but it was **Body care products** that generated the most **profit and revenue** over the entire year.  
 
 > 📌 **Insight:** This highlights a valuable business lesson — a product’s high sales volume doesn’t always translate to higher profit contribution.
 
 ---
 
-## 🚧 Limitations  
+## Limitations  
 
 - 📅 The dataset covers only the year **2022**, limiting time-based trend analysis to just **days of the week, months, and quarters**.
 - 📉 Absence of **cost-related variables per product unit** limited deeper margin analysis beyond available profit data.

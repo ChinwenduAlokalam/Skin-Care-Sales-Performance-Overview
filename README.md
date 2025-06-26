@@ -22,14 +22,14 @@ The primary questions this project sought to answer were:
 
 ## 📊 Key Findings  
 
-- 📦 A total of **75,000 products** were sold across **7,000 orders** during the year **2022**.  
-- 🏢 The **Corporate segment** generated the highest profit, contributing approximately **52% of total profit**.  
-- 🌍 The **Europe market** contributed the most to total profit with about **$91,405**.  
-- 📅 The month of **August** recorded the highest **revenue** at approximately **$202,000**, while **June** achieved the highest **profit** of about **$42,000**.  
-- 🇺🇸 The **United States (North America)** generated both the highest overall **profit and revenue**.  
-- 🏙️ While **Los Angeles** led in **total revenue**, **New York City** contributed the most to total **profit**.  
-- 📉 On average, **Thursdays** recorded the **lowest sales volume** compared to other weekdays.  
-- 🌎 Though **Central America** contributed most to total **revenue**, **Western Europe** recorded the highest **profit contribution**.  
+- A total of **75,000 products** were sold across **7,000 orders** during the year **2022**.  
+- The **Corporate segment** generated the highest profit, contributing approximately **52% of total profit**.  
+- The **Europe market** contributed the most to total profit with about **$91,405**.  
+- The month of **August** recorded the highest **revenue** at approximately **$202,000**, while **June** achieved the highest **profit** of about **$42,000**.  
+- The **United States (North America)** generated both the highest overall **profit and revenue**.  
+- While **Los Angeles** led in **total revenue**, **New York City** contributed the most to total **profit**.  
+- On average, **Thursdays** recorded the **lowest sales volume** compared to other weekdays.  
+- Though **Central America** contributed most to total **revenue**, **Western Europe** recorded the highest **profit contribution**.  
 -  **Face care products** sold the highest number of units over time, but it was **Body care products** that generated the most **profit and revenue** over the entire year.  
 
 > 📌 **Insight:** This highlights a valuable business lesson — a product’s high sales volume doesn’t always translate to higher profit contribution.

@@ -5,7 +5,7 @@ This project explores the **sales and profitability performance of skincare prod
 
 Using a combination of **SQL queries** and a **Power BI dashboard**, I aimed to uncover valuable insights about the business’s most profitable areas, sales patterns, and customer behaviors.
 
-I created a date table in PostgreSQL and Power BI which i used for the time based analysis.
+I created a date table in PostgreSQL and Power BI which was used for the time based trend analysis.
 
 ---
 
